@@ -10,8 +10,8 @@ I'm Gabriel, a mathematics student and programmer at UFMG passionate about educa
 
 ## Research & Projects  
 - **Heuristics**: Metaprogramming and Heuristics Research using Prolog.
-- **Flexagons**: An open-source Flexagon Generator ([GitHub](https://github.com/gabe-rbo/Corretores-Automaticos-de-Programas-Python))](https://github.com/gabe-rbo/Flexagons).
-- **CAPP**: An automatic python script multiprocessor for teachers and students ([GitHub](https://github.com/gabe-rbo/Corretores-Automaticos-de-Programas-Python)).
+- **Flexagons**: An open-source Flexagon Generator [GitHub](https://github.com/gabe-rbo/Corretores-Automaticos-de-Programas-Python))](https://github.com/gabe-rbo/Flexagons).
+- **CAPP**: An automatic python script multiprocessor for teachers and students [GitHub](https://github.com/gabe-rbo/Corretores-Automaticos-de-Programas-Python).
 - **Geoprocessing**: Data and geographical analysis of schools in Brazil
 
 ## Let's Connect!  
