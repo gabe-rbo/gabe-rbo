@@ -1,4 +1,12 @@
-## Hi there 👋
+# Pleasure to meet you
+
+I'm Gabriel, a student and programmer at UFMG. I code for my Cientific Iniciations and Extension Project. Here's a few things about myself:
+
+* I speak Portuguese, English (C1), Spanish and German;
+* Codes can be found in Python and Prolog;
+* There are some codes written in Portuguese others in English.
+
+Feel free to contact me as needed.
 
 <!--
 **gabe-rbo/gabe-rbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
