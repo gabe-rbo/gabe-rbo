@@ -13,7 +13,7 @@ I'm Gabriel, a mathematics student and programmer at UFMG passionate about educa
 - **Geoprocessing**: Data and geographical analysis of schools in Brazil.
 - **Flexagons**: Open-source flexagon generator [[GitHub](https://github.com/gabe-rbo/Flexagons)].
 - **CAPPs**: Automatic Python script multiprocessor for teachers and students [[GitHub](https://github.com/gabe-rbo/Corretores-Automaticos-de-Programas-Python)].
-- **Sunspots Data Analysis**: Developed during my course on Introduction to Computer Programming on UFMG at 2023 [[GitHub](https://github.com/gabe-rbo/Sunspots)].
+- **Sunspots Data Analysis**: Developed during my course on Introduction to Computer Programming on UFMG in 2023 [[GitHub](https://github.com/gabe-rbo/Sunspots)].
 
 ## Let's Connect!  
 📧 [gabe11@ufmg.br](mailto:gabe11@ufmg.br)
