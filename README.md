@@ -5,7 +5,7 @@ I'm Gabriel, a mathematics student and programmer at UFMG passionate about educa
 
 ## Skills  
 - **Languages**: Portuguese, English (C1), Spanish, German  
-- **Programming**: Python, Prolog  
+- **Programming**: Python, Prolog, R
 - **Tools**: Git, LaTeX
 
 ## Research & Projects  
