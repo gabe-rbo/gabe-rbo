@@ -10,9 +10,9 @@ I'm Gabriel, a mathematics student and programmer at UFMG passionate about educa
 
 ## Research & Projects  
 - **Heuristics**: Metaprogramming and heuristics research using Prolog.
+- **Geoprocessing**: Data and geographical analysis of schools in Brazil.
 - **Flexagons**: Open-source flexagon generator [[GitHub](https://github.com/gabe-rbo/Flexagons)].
 - **CAPPs**: Automatic Python script multiprocessor for teachers and students [[GitHub](https://github.com/gabe-rbo/Corretores-Automaticos-de-Programas-Python)].
-- **Geoprocessing**: Data and geographical analysis of schools in Brazil.
 - **Sunspots Data Analysis**: Developed during my course on Introduction to Computer Programming on UFMG at 2023 [[GitHub](https://github.com/gabe-rbo/Sunspots)].
 
 ## Let's Connect!  
