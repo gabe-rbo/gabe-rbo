@@ -17,6 +17,7 @@ I'm Gabriel, a mathematics student and programmer at UFMG passionate about educa
 
 ## Let's Connect!  
 📧 [gabe11@ufmg.br](mailto:gabe11@ufmg.br)
+🧪 [Lattes](http://lattes.cnpq.br/5215319444624266)
 <!--
 **gabe-rbo/gabe-rbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
