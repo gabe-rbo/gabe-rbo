@@ -16,7 +16,7 @@ I'm Gabriel, a mathematics student and programmer at UFMG passionate about educa
 - **Sunspots Data Analysis**: Developed during my course on Introduction to Computer Programming on UFMG in 2023 [[GitHub](https://github.com/gabe-rbo/Sunspots)].
 
 ## Let's Connect!  
-📧 [gabe11@ufmg.br](mailto:gabe11@ufmg.br)
+📧 [gabriel.ribeiro@dcc.ufmg.br](mailto:gabriel.ribeiro@dcc.ufmg.br)
 
 🧪 [Lattes](http://lattes.cnpq.br/5215319444624266)
 <!--
