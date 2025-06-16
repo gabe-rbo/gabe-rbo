@@ -14,11 +14,6 @@ I'm Gabriel, a mathematics student and programmer at UFMG passionate about educa
 - **Flexagons**: Open-source flexagon generator [[GitHub](https://github.com/gabe-rbo/Flexagons)].
 - **CAPPs**: Automatic Python script multiprocessor for teachers and students [[GitHub](https://github.com/gabe-rbo/Corretores-Automaticos-de-Programas-Python)].
 - **Sunspots Data Analysis**: Developed during my course on Introduction to Computer Programming on UFMG in 2023 [[GitHub](https://github.com/gabe-rbo/Sunspots)].
-
-## Let's Connect!  
-📧 [gabriel.ribeiro@dcc.ufmg.br](mailto:gabriel.ribeiro@dcc.ufmg.br)
-
-🧪 [Lattes](http://lattes.cnpq.br/5215319444624266)
 <!--
 **gabe-rbo/gabe-rbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
